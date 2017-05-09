@@ -1,4 +1,5 @@
 # SER
+Entrega: 26/5
 
 TODO tomorrow:
 
@@ -12,3 +13,4 @@ Programar a leitura da linha
 Leitura de marcas
 gestão de tarefas
 Localizar obstáculos
+Relatório (!)
