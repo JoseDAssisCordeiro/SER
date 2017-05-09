@@ -14,3 +14,4 @@ Leitura de marcas
 gestão de tarefas
 Localizar obstáculos
 Relatório (!)
+
